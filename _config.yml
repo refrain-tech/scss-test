@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
 sass:
   sass_dir: _sass
   style: expanded
+theme: jekyll-theme-cayman
