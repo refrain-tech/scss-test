@@ -1,6 +1,6 @@
 plugins:
   - jekyll-sitemap
 sass:
-  sass_dir: res
+  sass_dir: _sass
   style: expanded
 theme: jekyll-theme-cayman
